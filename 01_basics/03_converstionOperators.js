@@ -34,7 +34,32 @@
 // "zee" => true; 
 
 
-let Value = 33;
-let stringValue = String(Value);
+// let Value = 33;
+// let stringValue = String(Value);
+// console.log (typeof stringValue);
 
-console.log (typeof stringValue);
+// ------- Operations -------
+
+// let value = 3
+// let negValue = -value;
+// console.log (negValue);
+
+// let str1 = "Zorain";
+// let str2 = " Jawaid";
+
+// let name = str1 + str2;
+// console.log(name);
+
+// console.log("1" + 2);
+// console.log("1" + 2  + 2);
+// console.log(1 + 2 + "3");
+
+// console.log (+true);
+// console.log (+"");
+
+
+let gameCounter = 100;
+gameCounter++;
+console.log(gameCounter);
+console.log(gameCounter);
+console.log(gameCounter);
